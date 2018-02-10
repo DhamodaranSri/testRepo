@@ -8,28 +8,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
     }
-    
-    private func callThisMethod() {
-        
-        print("hello world")
-        print("hello world")
-        newMethod()
-        
-    }
-    
-    fileprivate func newMethod() {
-        
-        print("hello world")
-        print("hello world")
-        print("hello world")
-        print("hello world")
-        print("hello world")
-        
-    }
-    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-    
 }
